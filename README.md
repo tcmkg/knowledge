@@ -1,2 +1,2 @@
 # knowledge
-medical kownledge representation and medical knowledge reasoning
+The code is for medical kownledge representation and medical knowledge reasoning
