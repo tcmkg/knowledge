@@ -1,6 +1,7 @@
 # knowledge
 The code is for medical kownledge representation and medical knowledge reasoning.
 
+# table
 The results:
 	      MRR	    MR	    hit@10	hit@3
 transE	0.5654	5.3200	0.8640	0.6400
