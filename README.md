@@ -1,5 +1,6 @@
 # Introduction
 The code is for medical kownledge representation and medical knowledge reasoning.
+The medical knowledge graph and the service platform can be found at http://kg-inc.igancao.cn:3000/#/tcmatlas/diagnosis
 
 # Results
 |            | MRR     |  MR    | hit@10       | hit@3    |
